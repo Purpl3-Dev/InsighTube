@@ -35,9 +35,7 @@ InsighTube is an advanced tool to extract and analyze YouTube data, including me
 
 ## 🛠 Instalación / Installation
 
-git clone https://github.com/Purpl3-Dev/insightube.git
-cd insightube
-pip install -r requirements.txt
+git clone https://github.com/Purpl3-Dev/insightube.git && cd insightube && pip install -r requirements.txt
 
 ## 🚀 Uso / Usage
 
