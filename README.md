@@ -42,10 +42,11 @@ git clone https://github.com/Purpl3-Dev/insightube.git && cd insightube && pip i
 python3 insightube.py 
 
 ## Example use / Ejemplo de uso
-set api YOUR_API_KEY  (Your Youtube API / Tu API de Youtube)
-set target UC_xxxxxxx (Youtube ID channel / ID del canal de Youtube)
-set module all
-set save true
+
+set api YOUR_API_KEY  (Your Youtube API / Tu API de Youtube) >>
+set target UC_xxxxxxx (Youtube ID channel / ID del canal de Youtube) >>
+set module all >> 
+set save true >> 
 run
 
 
