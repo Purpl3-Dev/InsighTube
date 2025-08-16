@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/tu-usuario/YTHACKR-v4-PRO)](https://github.com/tu-usuario/YTHACKR-v4-PRO/issues)
 
 ---
 
