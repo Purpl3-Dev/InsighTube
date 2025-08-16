@@ -1,0 +1,23 @@
+# Requests y APIs
+requests>=2.31.0
+google-api-python-client>=2.98.0
+google-auth>=2.22.0
+
+# Manejo de datos
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Manejo de archivos CSV y JSON
+pyyaml>=6.1.0
+
+# Testing
+pytest>=7.4.0
+
+# Variables de entorno
+python-dotenv>=1.0.0
+
+# Mejora de logs y colores en consola
+rich>=13.6.0
+
+# Opcional: progreso en descargas
+tqdm>=4.67.0
